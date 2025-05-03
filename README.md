@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🐥 성장 지향적인 자세로 임하여 사용자에게 좋은 경험을 주는 개발자가 되고 싶습니다
 - 👩🏻‍💻 현재는 타입스크립트와 알고리즘 공부에 집중하고 있습니다
 - 📝 공부한 것을 Github와 velog에 기록하고 있습니다
 - velog : https://velog.io/@sejinee
